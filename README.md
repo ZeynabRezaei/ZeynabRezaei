@@ -14,7 +14,7 @@ I'm a nature enthusiast at heart and find solace in spending time outdoors. Whet
 
 ## I Currently Work With
 
-![Stack](https://skillicons.dev/icons?i=go,py,elasticsearch,postgres,mysql,gitlab,kubernetes,openshift,docker,prometheus,grafana,postman&perline=3)
+![Stack](https://skillicons.dev/icons?i=go,py,postman,elasticsearch,postgres,mysql,kubernetes,openshift,docker,prometheus,grafana,gitlab&perline=3)
 
 ## GitHub Stats
 
