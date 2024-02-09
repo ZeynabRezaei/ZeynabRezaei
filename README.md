@@ -12,6 +12,10 @@ When I'm not glued to my computer screen, you can find me exploring the latest a
 
 I'm a nature enthusiast at heart and find solace in spending time outdoors. Whether it's hiking through lush forests, admiring blooming flowers, or simply soaking up the sunshine, I'm happiest when surrounded by nature's beauty. In my free time, you'll often find me binge-watching my favorite TV shows, tending to my indoor garden, or hitting the gym for a good workout.
 
+## I Currently Work With
+
+![Stack](https://skillicons.dev/icons?i=go,kubernetes,openshift,docker,postgres,prometheus,grafana,gitlab,vector,elasticsearch&perline=5)
+
 ## GitHub Stats
 
 ![Zeynab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeynabRezaei&show_icons=true&theme=radical)
