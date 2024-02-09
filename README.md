@@ -4,9 +4,9 @@
 
 ## About Me
 
-Welcome to my little corner of the internet! I'm Zeynab, a dynamic and driven Software Engineer with a fervent curiosity for all things tech.
+Welcome to my little corner of the internet! I'm Zeynab, a dynamic and driven Software Engineer with a fervent curiosity.
 
-My journey in the world of software engineering has been nothing short of exhilarating. From building scalable systems to delving into the depths of backend development, I'm constantly pushing the boundaries of what's possible. I thrive on challenges and believe that every problem is an opportunity for growth.
+My journey in the world of software engineering has been nothing short of exhilarating. From building scalable systems to delving into the depths of software development, I'm constantly pushing the boundaries of what's possible. I thrive on challenges and believe that every problem is an opportunity for growth.
 
 When I'm not glued to my computer screen, you can find me exploring the latest advancements in technology, diving into a good book, or indulging my wanderlust by exploring new places. I'm also a firm believer in giving back to the community and am passionate about using technology for social good.
 
