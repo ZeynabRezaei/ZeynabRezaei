@@ -10,7 +10,7 @@ My work is all about creating systems that can grow and learning as much as I ca
 
 When I'm not working on my computer, I like to stay updated on tech trends, read interesting books, or travel to new places. I also care a lot about helping out in my community and using technology to do good things.
 
-I love being in nature—it makes me happy. Whether it’s hiking in the forest, seeing beautiful flowers, or enjoying the sun, nature is my favorite place to be. In my spare time, I enjoy watching TV shows, taking care of my indoor plants, or working out at the gym. also I am a cat mom now, I love spending time with my two kittens Namak and Felfel. 🐈‍⬛❤️
+I love being in nature—it makes me happy. Whether it’s hiking in the forest, seeing beautiful flowers, or enjoying the sun, nature is my favorite place to be. In my spare time, I enjoy watching TV shows, taking care of my indoor plants, or working out at the gym. Also I am a cat mom, I love spending time with my two kittens, Namak and Felfel. 🐈‍⬛❤️
 
 ## I Currently Work With
 
